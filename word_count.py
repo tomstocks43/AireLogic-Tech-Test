@@ -126,6 +126,6 @@ if __name__ == '__main__':
         plt.text(counts.min()+0.1, max_ylim*0.7, 'Min: {:.2f}'.format(counts.min()))
         
         
-        
+    input("Press Enter to continue...")
     
   

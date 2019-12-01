@@ -6,9 +6,8 @@ artist's songs. The only non-standard library required is matplotlib and NumPy f
 
 ## How to use
 
-This file is a CLI app coded in python. T
-To use the app, make sure python 3 is installed and run the file through the follwing command
-"python word_count.py example_input.txt -num n" where;
+This file is a CLI app coded in python. To use the app, make sure python 3 is installed and run the file 
+through the follwing command: "python word_count.py example_input.txt -num n" where;
 example_input.txt is a path to a text file containing names of the artists to be compared, not case sensitive.
 n is the number of sets of songs to retrieve where 1 set is 20 songs.
 

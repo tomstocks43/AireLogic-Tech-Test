@@ -18,6 +18,7 @@ standard Deviation od the number of words in each song.
 ### Inputs
 
 The input text file is not case sensitive but each artist must be seperated by a new line.
+The -num argument must be an integer.
 
 ### Outputs
 
